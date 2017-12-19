@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="transparent_background">#00000000</drawable>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="exam_top_black">#0d000000</color>
+    <color name="que_progress_bg">#33ffffff</color>
+    <color name="sound_bg">#141821</color>
+    <color name="sound_text">#606165</color>
+    <color name="que_scratch_bg">#33000000</color>
+    <color name="gensee_black_bg">#66000000</color>
+    <color name="course_outline_item">#f1f1f1</color>
+    <color name="course_btn_bg">#f5f5f5</color>
+    <color name="red">#ff0000</color>
+    <color name="new_coupon_red">#ff4430</color>
+    <color name="que_red">#f76464</color>
+    <color name="que_red_night">#d25d5d</color>
+    <color name="course_red_pressed">#FE6700</color>
+    <color name="course_red">#ff7e00</color>
+    <color name="home_look_user">#F4ACBA</color>
+    <color name="head_bg">#00b861</color>
+    <color name="main_bg">#00b861</color>
+    <!--<color name="head_bg">#ffffff</color>-->
+    <color name="content_bg">#F0F0F0</color>
+    <color name="line_color">#EAEAEA</color>
+    <color name="gray_little_color">#808080</color>
+    <color name="hint_gray_color">#afafaf</color>
+    <color name="gray_color">#666666</color>
+    <color name="more_gray_color">#333333</color>
+    <color name="center_gray_color">#999999</color>
+    <color name="litter_gray_color">#CCCCCC</color>
+    <color name="histroy_gray_color">#8e8e8e</color>
+    <color name="btn_grayd_color">#DEDEDE</color>
+    <color name="btn_graye_color">#EEEEEE</color>
+    <color name="center_translation_color">#88000000</color>
+    <color name="little_translation_color">#20000000</color>
+    <color name="enable_color">#888888</color>
+    <color name="little_white">#EBF9F7</color>
+    <color name="little_black">#4c4c4c</color>
+    <color name="head_bg_pre">#00a350</color>
+    <color name="near_white">#FAFAFA</color>
+    <color name="fen_color">#E28EE1</color>
+    <color name="transparent_background">#00000000</color>
+    <color name="play_message_info_pro">#FF4D75</color>
+    <color name="gift_repeat_dec">#FEFF00</color>
+    <color name="black_tran_bg">#80000000</color>
+    <color name="dark_black_tran_bg">#b0000000</color>
+    <color name="img_black_tran_bg">#cc000000</color>
+    <color name="gray_text">#DCDCDC</color>
+    <!-- 房间里心得颜色集-->
+    <color name="room_heart1">#73f249</color>
+    <color name="room_heart2">#ffc652</color>
+    <color name="room_heart3">#ff94d0</color>
+    <color name="room_heart4">#ff4874</color>
+    <color name="room_heart5">#47e2ff</color>
+    <color name="room_heart6">#ff7900</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="renzheng_yellow">#E4FA00</color>
+
+    <color name="gray888">#888888</color>
+    <color name="translatewhite">#66EEEEEE</color>
+
+    <color name="coupon_btn_press">#e2e2e2</color>
+
+    <color name="coupon_btn_pressnight">#666666</color>
+
+    <color name="vip_btn_main">#ff9900</color>
+    <color name="colorPrimary">#9900ac5b</color>
+    <color name="colorPrimaryDark">#ffe57d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="tou_white">#00ffffff</color>
+
+
+    <!--试题界面相关样式-->
+    <color name="ques_content_bg">#F0F0F0</color>
+    <color name="transparent_bg">#50000000</color>
+    <color name="sacn_blue_text">#00b681</color>
+    <color name="sacn_blue_textnight">#198853</color>
+    <color name="sacn_blue_bg">#e3fff2</color>
+    <color name="sacn_blue_bgnight">#a1b2aa</color>
+    <color name="sacn_red_text">#f76464</color>
+    <color name="sacn_red_bg">#ffe8e8</color>
+    <color name="sacn_red_textnight">#ad5555</color>
+    <color name="sacn_red_bgnight">#b2a4a4</color>
+
+    <color name="head_bg_white">#FFFFFF</color>
+    <color name="head_bg_night">#3f3f3f</color>
+    <color name="head_bg_eye">#e6f6ee</color>
+    <!--<color name="head_bg_eye">#cdeacc</color>-->
+
+
+    <color name="head_bgnight">#0da05a</color>
+    <color name="qianwhite">#d9d9d9</color>
+    <color name="scroll_bgnight">#363636</color>
+    <color name="scroll_bgeye">#d8f0e4</color>
+    <color name="btn_grayeye_color">#d8eae1</color>
+
+    <color name="room_wx_bg">#fff6e9</color>
+    <color name="room_wx_tv">#ffa92a</color>
+
+    <color name="prize_yellow">#febe2d</color>
+    <color name="prize_red">#fe413b</color>
+    <color name="msg_moneny">#ff5f00</color>
+    <color name="exam_green">#00c86b</color>
+    <color name="more_exam_green">#00a357</color>
+</resources>

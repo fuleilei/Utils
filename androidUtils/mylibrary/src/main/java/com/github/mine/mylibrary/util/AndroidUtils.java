@@ -1,4 +1,4 @@
-package com.github.mine.mylibrary;
+package com.github.mine.mylibrary.util;
 
 import android.content.Context;
 import android.util.DisplayMetrics;
